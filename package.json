@@ -1,8 +1,8 @@
 {
-  "name": "frontend-boilerplate",
+  "name": "screen-v3",
   "version": "1.0.0",
   "private": true,
-  "description": "A boilerplate of things that shouldn't exist",
+  "description": "onscreentoday.com",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
     "build": "NODE_ENV=production webpack --progress --colors",
     "lint": "./node_modules/.bin/eslint -c .eslintrc client"
   },
-  "license": "MIT",
+  "license": "N/A",
   "devDependencies": {
     "babel-core": "^6.5.2",
     "babel-loader": "^6.2.3",
